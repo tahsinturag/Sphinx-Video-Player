@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844626086400",
+    "project_id": "sphnix-4f021",
+    "storage_bucket": "sphnix-4f021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844626086400:android:d51049941646ae65a226e5",
+        "android_client_info": {
+          "package_name": "com.example.sphinx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844626086400-8dtng9ggntlto7l7u5f5nneup0050c44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPO5TQ_HxNAJpaGvBe9VdpMRPCDW9PazM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844626086400-8dtng9ggntlto7l7u5f5nneup0050c44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
